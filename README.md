@@ -19,14 +19,16 @@ The store wants to create an annual sales report for 2022. So that, the owner of
 - Dashboard interaction <a href="https://github.com/heyRapunzel-28/MS-Excel-project/blob/main/Screenshot%202025-02-07%20150256.png"> View Dashboard </a>
 
 
-##Process
+## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot table according to question asked.
 - Merge all pivot table into one dashboard and apply slicer to make dynamic.
 
 
-##Dashboard
+## Dashboard
+![Screenshot 2025-02-07 150256](https://github.com/user-attachments/assets/59b9eecd-389e-4aa6-bfad-1f468e7d7007)
+
 
 
 
